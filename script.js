@@ -217,7 +217,7 @@ const startLogOutTimer = function () {
     //Decrese 1s
     time--;
   };
-  // Set time to 3min
+  // Set time to 5min
   let time = 180;
   // Call the timer every second
   tick();
