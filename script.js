@@ -254,7 +254,6 @@ btnLogin.addEventListener('click', function (e) {
     const options = {
       hour: 'numeric',
       minute: 'numeric',
-      second: 'numeric',
       day: 'numeric',
       month: 'numeric',
       year: 'numeric',
